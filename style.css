@@ -1,0 +1,33 @@
+.text-center {
+    text-align:center
+}
+
+.v-center {
+   margin-top: 100px;
+   padding-top: 100px;
+}
+
+.title{
+    color: #552671;
+    letter-spacing: 0.1em;
+}
+
+.subtitle{
+    color: #df9c18;
+    letter-spacing: 0.1em;
+}
+
+.btn-cust{
+    color: white;
+    background-color: #552671;
+    border: none;
+    letter-spacing: 0.1em;
+}
+
+.btn-cust:hover
+{
+color:black;
+background-color:#f9b835
+;
+}
+
